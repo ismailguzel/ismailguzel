@@ -1,7 +1,7 @@
 # Hi there, I'm Ismail Guzel 👋
 
 ## About Me
-I am a Senior Researcher at the Network Technologies Department, Turkish Academic Network and Information Center (ULAKBİM), which is part of The Scientific and Technological Research Council of TÜRKİYE (TÜBİTAK) in Ankara, Türkiye.
+I am a member of TRUBA team as a senior Researcher at the Network Technologies Department, Turkish Academic Network and Information Center (TUBITAK ULAKBİM), which is part of The Scientific and Technological Research Council of TÜRKİYE (TÜBİTAK) in Ankara, Türkiye.
 
 ## Research Interests
 - Topological Data Analysis
