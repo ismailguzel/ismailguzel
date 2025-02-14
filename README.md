@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Ismail Guzel 👋
 
-<!--
-**ismailguzel/ismailguzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Senior Researcher at the Network Technologies Department, Turkish Academic Network and Information Center (ULAKBİM), which is part of The Scientific and Technological Research Council of TÜRKİYE (TÜBİTAK) in Ankara, Türkiye.
 
-Here are some ideas to get you started:
+## Research Interests
+- Topological Data Analysis
+- Dynamical Systems
+- High-Performance Computing
+- Machine Learning and Deep Learning Algorithms
+- Time Series Analysis
+- Mathematical Finance
+- Numerical Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- Mainly Python and R
+- Nvidia GPUs
+- CPU and GPU clusters
+
+## Contact
+- Email: [ismailgzel@gmail.com](mailto:ismailgzel@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ismail-g%C3%BCzel-phd-7b9935a2/)
+- Personal Webpage: [Personal Webpage]([https://yourwebsite.com](https://ismailguzel.github.io/))
+
+Feel free to connect with me on LinkedIn or e-mail.
