@@ -1,7 +1,9 @@
 # Hi there, I'm Ismail Guzel 👋
 
 ## About Me
-I am a member of TRUBA team as a senior Researcher at the Network Technologies Department, Turkish Academic Network and Information Center (TUBITAK ULAKBİM), which is part of The Scientific and Technological Research Council of TÜRKİYE (TÜBİTAK) in Ankara, Türkiye.
+I am a member of [TRUBA](https://www.truba.gov.tr/) team as a senior Researcher at the Network Technologies Department, Turkish Academic Network and Information Center (TUBITAK ULAKBİM), which is part of The Scientific and Technological Research Council of TÜRKİYE (TÜBİTAK) in Ankara, Türkiye.
+
+I am also a member of [ML Commons Working Group](https://mlcommons.org/).
 
 ## Research Interests
 - Topological Data Analysis
@@ -11,9 +13,11 @@ I am a member of TRUBA team as a senior Researcher at the Network Technologies D
 - Time Series Analysis
 - Mathematical Finance
 - Numerical Analysis
+- HPL, HPCG, Mixed-Precision Benchmarks
+- LLMs, Fine-Tunning, Local Inference with scales
 
 ## Technologies
-- Mainly Python and R
+- Mainly Python, R, and Julia
 - Nvidia GPUs
 - CPU and GPU clusters
 
