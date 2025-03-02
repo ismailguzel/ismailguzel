@@ -1,9 +1,9 @@
 # Hi there, I'm Ismail Guzel 👋
 
 ## About Me
-I am a part of [TRUBA](https://www.truba.gov.tr/) team as a senior Researcher at the Network Technologies Department, Turkish Academic Network and Information Center (TUBITAK ULAKBİM), which is part of The Scientific and Technological Research Council of TÜRKİYE (TÜBİTAK) in Ankara, Türkiye.
+I am a part of [TRUBA](https://www.truba.gov.tr/) team as a senior Researcher at the Network Technologies Department, Turkish Academic Network and Information Center (ULAKBİM), which is part of The Scientific and Technological Research Council of TÜRKİYE (TÜBİTAK) in Ankara, Türkiye.
 
-I am also a member of [ML Commons Working Group](https://mlcommons.org/) and [MunchLab](https://github.com/MunchLab).
+I am also a member of [ML Commons Working Group](https://mlcommons.org/) and was a member of [MunchLab](https://github.com/MunchLab).
 
 ## Research Interests
 - Topological Data Analysis
