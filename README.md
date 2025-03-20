@@ -24,6 +24,6 @@ I am also a member of [ML Commons Working Group](https://mlcommons.org/) and was
 ## Contact
 - Email: [ismailgzel@gmail.com](mailto:ismailgzel@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ismail-g%C3%BCzel-phd-7b9935a2/)
-- Personal Webpage: [Personal Webpage]([https://yourwebsite.com](https://ismailguzel.github.io/))
+- Personal Webpage: [Personal Webpage](https://ismailguzel.github.io/)
 
 Feel free to connect with me on LinkedIn or e-mail.
