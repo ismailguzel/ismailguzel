@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## About Me
-I am a Marie Skłodowska-Curie Postdoctoral Global Fellow (MSCA PF-GF) leading the [TOPOCLIM-EWS](https://cordis.europa.eu/project/id/101271995) project. As part of this fellowship, I am currently completing my outgoing research phase at Michigan State University (2026–2028) with Dr.[Elizabeth Munch](https://elizabethmunch.com/).
+I am a Marie Skłodowska-Curie Postdoctoral Global Fellow (MSCA PF-GF) leading the [TOPOCLIM-EWS](https://cordis.europa.eu/project/id/101271995) project. As part of this fellowship, I am currently completing my outgoing research phase at Michigan State University (2026–2028) with Dr. [Elizabeth Munch](https://elizabethmunch.com/).
 
 I am also an active member of [ML Commons Working Group](https://mlcommons.org/) and [MunchLab](https://github.com/MunchLab).
 
