@@ -1,9 +1,9 @@
 # Hi there! 👋
 
 ## About Me
-I am a part of [TRUBA](https://www.truba.gov.tr/) team as a senior Researcher at the Network Technologies Department, Turkish Academic Network and Information Center (ULAKBİM), which is part of The Scientific and Technological Research Council of TÜRKİYE (TÜBİTAK) in Ankara, Türkiye.
+I am a Marie Skłodowska-Curie Postdoctoral Global Fellow (MSCA PF-GF) leading the [TOPOCLIM-EWS](https://cordis.europa.eu/project/id/101271995) project. As part of this fellowship, I am currently completing my outgoing research phase at Michigan State University (2026–2028) with Dr.[Elizabeth Munch](https://elizabethmunch.com/).
 
-I am also a member of [ML Commons Working Group](https://mlcommons.org/) and was a member of [MunchLab](https://github.com/MunchLab).
+I am also an active member of [ML Commons Working Group](https://mlcommons.org/) and [MunchLab](https://github.com/MunchLab).
 
 ## Research Interests
 - Topological Data Analysis
